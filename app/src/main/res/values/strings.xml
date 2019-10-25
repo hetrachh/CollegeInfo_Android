@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CollegeInfo</string>
+    <string name="about_text">We developed this site college info for your convenience.Here you can find Course, Syllabus, Gtu Question Papers, E-books, Codes etc.
+    </string>
+    <string name="abt_cnt">For any feedback or query Feel free to contact us</string>
+    <string name="abt_det">Sankalp Hasija : 7802090093</string>
+    <string name="abt_het">Het Rachh: 9724481869</string>
+    <string name="abt_greet">Thank you !</string>
+
+
+</resources>

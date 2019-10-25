@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:background="@drawable/acd"
+    tools:context=".SelectActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:text="Select Your Acadamic"
+        android:textColor="@color/btncolor2"
+        android:textSize="35dp" />
+    <Button
+        android:id="@+id/mcas1"
+        android:layout_width="350dp"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:layout_marginTop="10dp"
+        android:textColor="@color/btncolor2"
+        android:text="Regular Mca ICA - A"
+        android:textSize="20dp"
+        android:background="@color/btncolor1"
+        android:layout_gravity="center"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/mcas3"
+        android:layout_width="350dp"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:textColor="@color/btncolor2"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:text="Regular Mca ICA - B"
+        android:background="@color/btncolor1"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/icac"
+        android:layout_width="350dp"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:textColor="@color/btncolor2"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:text="Regular Mca ICA - C"
+        android:background="@color/btncolor1"
+        android:layout_height="wrap_content" />
+
+
+</LinearLayout>
